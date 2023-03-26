@@ -1,5 +1,2 @@
-$mainColor: rgba(230, 71, 195, 0.904);
-
-body {
-    background-color: $mainColor;
-}
+@use 'base';
+@use 'header';
